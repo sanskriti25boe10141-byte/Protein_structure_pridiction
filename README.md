@@ -13,12 +13,12 @@ To predict and visualize the three-dimensional (3D) structure of a protein using
 ## Tools Used
 - UniProt
 - AlphaFold DB
-- PyMOL
+- ChimeraX
 
 ## Methodology
 1. Selected the Myoglobin protein sequence from UniProt.
 2. Retrieved the predicted 3D structure using AlphaFold DB.
-3. Visualized the protein structure in PyMOL.
+3. Visualized the protein structure in ChimeraX.
 4. Captured structure images for analysis.
 5. Examined structural features and confidence scores.
 
